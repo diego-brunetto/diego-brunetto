@@ -1,28 +1,32 @@
-## Hello World 👋 I'm [Diego](https://gonzalopozzo.com)!
+## Hey! I'm Diego 👋
 
-I'm a Frontend Developer specialized in **React**, **Next.js**, and **TypeScript**. I love building performant, scalable, and user-friendly web applications.
-
-<br/>
+Frontend Developer at **[Lebane](https://www.lebane.app/ar)** with 6+ years building with **React** and **TypeScript**. 
+Currently focused on **Product Engineering** — combining deep technical expertise with AI-augmented development workflows.
 
 <a href="https://www.linkedin.com/in/diego-brunetto/">
-  <img align="left" alt="Diego Brunetto LinkedIn" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
+  <img align="left" alt="LinkedIn" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
-
 <br />
 
-## 🚀 What I'm up to
+## 🔭 What I'm working on
 
-- 🔭 Currently working at [Karvi](https://vercel.com)
-- 🌱 Improving my skills in **React**, **Next.js**, **TypeScript** and **Frontend architecture**
-- 💡 Exploring best practices in performance, testing, and UI libraries
+- Driving product-focused frontend development at Lebane — from UI systems to core business features
+- Architecting a **payments infrastructure** that's set to unlock significant company growth
+- Integrating **Claude Code** and AI-assisted development into daily workflows
 
-<br/>
+## 🛠️ Stack
 
-## 🛠️ Languages & Tools
+**Core:** React · TypeScript · Next.js  
+**Backend exposure:** Java/Spring Boot · FastAPI · MySQL  
+**AI Tooling:** Claude Code · Anthropic API · MCP integrations  
+**Focus areas:** Frontend architecture · Component systems · Developer experience
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nextjs/nextjs.png"></code>
+## 🌱 Currently exploring
+
+- Service-as-a-Software patterns
+- Building with Claude as a development partner
+- Spec-anchored development workflows
 
 ---
+
+*Based in Mar del Plata, Argentina 🇦🇷 · EU citizen 🇪🇺*
